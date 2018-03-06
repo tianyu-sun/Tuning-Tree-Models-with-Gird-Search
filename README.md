@@ -1,5 +1,3 @@
-# Big-Data-Analytics-HW-2
-
 The "GradientBoosting.ipynb" file shows how to tune a gradient boosting tree model to fit the Malware Dataset.
 
 The "XGBoost.ipynb" file shows how to tune a XGBoost model to fit the Malware Dataset.
